@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-14T12:01:01Z" name="Default suite" finished-at="2020-06-14T12:01:28Z" duration-ms="26877">
+    <groups>
+    </groups>
+    <test started-at="2020-06-14T12:01:01Z" name="Default test" finished-at="2020-06-14T12:01:28Z" duration-ms="26877">
+      <class name="slider_range.Default_functionalites">
+        <test-method signature="scrollLoanAmountToMin()[pri:0, instance:slider_range.Default_functionalites@61001b64]" started-at="2020-06-14T12:01:01Z" name="scrollLoanAmountToMin" finished-at="2020-06-14T12:01:28Z" duration-ms="26826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollLoanAmountToMin -->
+      </class> <!-- slider_range.Default_functionalites -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,2 @@
+[0614/165043.267:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Mugu\AppData\Local\Temp\scoped_dir16688_284009911\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0614/170501.061:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Mugu\AppData\Local\Temp\scoped_dir12216_297452139\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
